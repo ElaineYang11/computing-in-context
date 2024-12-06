@@ -1,0 +1,5 @@
+format: jb-book
+root: index
+chapters:
+  - file: project1.ipynb
+  - file: project2.ipynb
