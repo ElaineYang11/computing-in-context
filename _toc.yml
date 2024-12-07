@@ -3,3 +3,4 @@ root: index
 chapters:
   - file: project1.ipynb
   - file: project2.ipynb
+  - file: project3.ipynb
